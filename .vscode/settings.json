@@ -1,4 +1,11 @@
 {
     "typescript.tsdk": "node_modules/typescript/lib",
-    "compile-hero.disable-compile-files-on-did-save-code": true
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "powermode.combo.threshold": 5,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.location": "off",
+    "powermode.combo.counterSize": 10,
+    "powermode.enabled": false,
+    "powermode.presets": "flames",
+    "powermode.explosions.backgroundMode": "image"
 }
